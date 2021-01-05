@@ -1,0 +1,1 @@
+This directory "0x01-emacs" contains different commands of Emacs.

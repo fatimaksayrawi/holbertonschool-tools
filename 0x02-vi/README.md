@@ -1,0 +1,1 @@
+This directory "0x02-vi" contains different commands of vi.

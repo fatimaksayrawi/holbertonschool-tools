@@ -1,6 +1,6 @@
-###Holbertoon School Tools
+### Holbertoon School Tools
 ---
-**My Projects:**
+##### **My Projects:**
 --
 The repository "Holbeton school tools" includes several projects helped me to be familiar with different tools I will use them as a machine learning engineer.
 ---
